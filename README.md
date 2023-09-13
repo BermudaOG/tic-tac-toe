@@ -4,4 +4,4 @@
 <a href="https://bermudaog.github.io/tic-tac-toe/"> Tic-Tac-Toe Project </a>
 
 # Roadmap for improvement 
-## I want to style the background of the site. Adding columns to the sides of the site and adding a color pallet to the columns and backgound. I also want to add a reset button and maybe a record of wins. The reset button would just reset the board without the need to use the refresh button and with no need to refresh i can bank the wins and display them.
+## I want to style the background of the site. Adding columns to the sides of the site and adding a color pallet to the columns and background. I also want to add a reset button and maybe a record of wins. The reset button would just reset the board without the need to use the refresh button and with no need to refresh i can bank the wins and display them.
